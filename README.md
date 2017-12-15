@@ -1,2 +1,0 @@
-# OpenCoverage
-LorenzoOpenCoverage
