@@ -1,0 +1,16 @@
+D:\code coverage\RG\New folder\ReportGenerator-2.5.10.0\ReportGenerator.Reporting\bin\Debug\ReportGenerator.Reporting.dll.config
+D:\code coverage\RG\New folder\ReportGenerator-2.5.10.0\ReportGenerator.Reporting\bin\Debug\ReportGenerator.Reporting.dll
+D:\code coverage\RG\New folder\ReportGenerator-2.5.10.0\ReportGenerator.Reporting\bin\Debug\ReportGenerator.Reporting.pdb
+D:\code coverage\RG\New folder\ReportGenerator-2.5.10.0\ReportGenerator.Reporting\bin\Debug\ReportGenerator.exe
+D:\code coverage\RG\New folder\ReportGenerator-2.5.10.0\ReportGenerator.Reporting\bin\Debug\ICSharpCode.NRefactory.dll
+D:\code coverage\RG\New folder\ReportGenerator-2.5.10.0\ReportGenerator.Reporting\bin\Debug\ICSharpCode.NRefactory.CSharp.dll
+D:\code coverage\RG\New folder\ReportGenerator-2.5.10.0\ReportGenerator.Reporting\bin\Debug\Newtonsoft.Json.dll
+D:\code coverage\RG\New folder\ReportGenerator-2.5.10.0\ReportGenerator.Reporting\bin\Debug\ReportGenerator.pdb
+D:\code coverage\RG\New folder\ReportGenerator-2.5.10.0\ReportGenerator.Reporting\bin\Debug\ICSharpCode.NRefactory.xml
+D:\code coverage\RG\New folder\ReportGenerator-2.5.10.0\ReportGenerator.Reporting\bin\Debug\ICSharpCode.NRefactory.CSharp.xml
+D:\code coverage\RG\New folder\ReportGenerator-2.5.10.0\ReportGenerator.Reporting\bin\Debug\Newtonsoft.Json.xml
+D:\code coverage\RG\New folder\ReportGenerator-2.5.10.0\ReportGenerator\bin\Debug\ReportGenerator.Reporting.dll
+D:\code coverage\RG\New folder\ReportGenerator-2.5.10.0\ReportGenerator\bin\Debug\ReportGenerator.Reporting.pdb
+D:\code coverage\RG\New folder\ReportGenerator-2.5.10.0\ReportGenerator.Reporting\obj\Debug\ReportGenerator.Reporting.csprojResolveAssemblyReference.cache
+D:\code coverage\RG\New folder\ReportGenerator-2.5.10.0\ReportGenerator.Reporting\obj\Debug\ReportGenerator.Reporting.dll
+D:\code coverage\RG\New folder\ReportGenerator-2.5.10.0\ReportGenerator.Reporting\obj\Debug\ReportGenerator.Reporting.pdb
