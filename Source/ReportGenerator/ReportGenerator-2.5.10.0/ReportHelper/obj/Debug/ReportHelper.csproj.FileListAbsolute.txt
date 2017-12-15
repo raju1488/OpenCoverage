@@ -1,0 +1,16 @@
+D:\code coverage\RG\New folder\ReportGenerator-2.5.10.0\ReportHelper\bin\Debug\ReportHelper.dll
+D:\code coverage\RG\New folder\ReportGenerator-2.5.10.0\ReportHelper\bin\Debug\ReportHelper.pdb
+D:\code coverage\RG\New folder\ReportGenerator-2.5.10.0\ReportHelper\bin\Debug\MongoDB.Bson.dll
+D:\code coverage\RG\New folder\ReportGenerator-2.5.10.0\ReportHelper\bin\Debug\MongoDB.Driver.Core.dll
+D:\code coverage\RG\New folder\ReportGenerator-2.5.10.0\ReportHelper\bin\Debug\MongoDB.Driver.dll
+D:\code coverage\RG\New folder\ReportGenerator-2.5.10.0\ReportHelper\bin\Debug\Newtonsoft.Json.dll
+D:\code coverage\RG\New folder\ReportGenerator-2.5.10.0\ReportHelper\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\code coverage\RG\New folder\ReportGenerator-2.5.10.0\ReportHelper\bin\Debug\MongoDB.Bson.xml
+D:\code coverage\RG\New folder\ReportGenerator-2.5.10.0\ReportHelper\bin\Debug\MongoDB.Driver.xml
+D:\code coverage\RG\New folder\ReportGenerator-2.5.10.0\ReportHelper\bin\Debug\MongoDB.Driver.Core.xml
+D:\code coverage\RG\New folder\ReportGenerator-2.5.10.0\ReportHelper\bin\Debug\Newtonsoft.Json.xml
+D:\code coverage\RG\New folder\ReportGenerator-2.5.10.0\ReportGenerator\bin\Debug\ReportHelper.dll
+D:\code coverage\RG\New folder\ReportGenerator-2.5.10.0\ReportGenerator\bin\Debug\ReportHelper.pdb
+D:\code coverage\RG\New folder\ReportGenerator-2.5.10.0\ReportHelper\obj\Debug\ReportHelper.dll
+D:\code coverage\RG\New folder\ReportGenerator-2.5.10.0\ReportHelper\obj\Debug\ReportHelper.pdb
+D:\code coverage\RG\New folder\ReportGenerator-2.5.10.0\ReportHelper\obj\Debug\ReportHelper.csprojResolveAssemblyReference.cache
