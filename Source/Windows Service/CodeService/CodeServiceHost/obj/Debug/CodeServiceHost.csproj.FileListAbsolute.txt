@@ -1,0 +1,11 @@
+D:\Codes\snomed\setup\CodeServiceHost.exe.config
+D:\Codes\snomed\setup\CodeServiceHost.exe
+D:\Codes\snomed\setup\CodeServiceHost.pdb
+D:\Codes\karthi\CodeService\bin\CodeServiceHost.exe.config
+D:\Codes\karthi\CodeService\bin\CodeServiceHost.exe
+D:\Codes\karthi\CodeService\bin\CodeServiceHost.pdb
+D:\Codes\karthi\CodeService\CodeServiceHost\obj\Debug\LorArcSnomedServiceHost.ProjectInstaller.resources
+D:\Codes\karthi\CodeService\CodeServiceHost\obj\Debug\CodeServiceHost.csproj.GenerateResource.Cache
+D:\Codes\karthi\CodeService\CodeServiceHost\obj\Debug\CodeServiceHost.exe
+D:\Codes\karthi\CodeService\CodeServiceHost\obj\Debug\CodeServiceHost.pdb
+D:\Codes\karthi\CodeService\CodeServiceHost\obj\Debug\CodeServiceHost.csprojResolveAssemblyReference.cache
